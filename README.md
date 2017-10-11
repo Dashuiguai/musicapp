@@ -23,11 +23,8 @@ APlayer is a lovely HTML5 music player to help people build audio easily.
 	- Playlist
 	- Lyrics
 
-Using APlayer on your project? [Let me know!](https://github.com/MoePlayer/APlayer/issues/79)
 
-**[Demo](http://aplayer.js.org)**
 
-**[Docs](http://aplayer.js.org/docs)**
 
 ## Install
 
