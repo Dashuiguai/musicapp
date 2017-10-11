@@ -5,16 +5,7 @@
 
 > Wow, such a lovely HTML5 music player
 
-[![npm](https://img.shields.io/npm/v/aplayer.svg?style=flat-square)](https://www.npmjs.com/package/aplayer)
-[![npm](https://img.shields.io/npm/l/aplayer.svg?style=flat-square)](https://github.com/MoePlayer/APlayer/blob/master/LICENSE)
-[![devDependency Status](https://img.shields.io/david/dev/MoePlayer/aplayer.svg?style=flat-square)](https://david-dm.org/MoePlayer/APlayer#info=devDependencies)
-[![npm](https://img.shields.io/npm/dt/aplayer.svg?style=flat-square)](https://www.npmjs.com/package/aplayer)
-[![Travis](https://img.shields.io/travis/MoePlayer/APlayer.svg?style=flat-square)](https://travis-ci.org/MoePlayer/APlayer)
-[![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?style=flat-square)](https://github.com/MoePlayer/APlayer#donate)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/MoePlayer/APlayer'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/MoePlayer/APlayer.svg' />
-</a>
 
 ## Introduction
 
@@ -62,14 +53,8 @@ var ap = new APlayer({
 });
 ```
 
-## Usage
 
-[Read the Docs](http://aplayer.js.org/docs)
 
-## Join the Discussion
-
-- [Telegram Group](https://t.me/adplayer)
-- [QQ Group](https://shang.qq.com/wpa/qunwpa?idkey=bf22213ae0028a82e5adf3f286dfd4f01e0997dc9f1dcd8e831a0a85e799be17): 415835947
 
 ## Related Projects
 
@@ -119,9 +104,3 @@ var ap = new APlayer({
 - [Donate via Alipay](https://ws4.sinaimg.cn/large/006tKfTcgy1fhu1vf4ih7j307s07sdfm.jpg)
 - Donate via Bitcoin: 13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1
 
-## Author
-
-**APlayer** © [DIYgod](https://github.com/DIYgod), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/APlayer/contributors)).
-
-> Blog [@Anotherhome](https://www.anotherhome.net) · GitHub [@DIYgod](https://github.com/DIYgod) · Twitter [@DIYgod](https://twitter.com/DIYgod) · Weibo [@DIYgod酱](http://weibo.com/anotherhome) · Telegram Channel [@awesomeDIYgod](https://t.me/awesomeDIYgod)
